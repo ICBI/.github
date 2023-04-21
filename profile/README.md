@@ -19,6 +19,8 @@ ICBI team is also part of the The Biomedical Informatics Shared Resource (BISR) 
 * Rembrandt multi omics datasets
    - Gene expression and copy number at GEO
    - Segmented images at NITRC
+* Our team is part of the Data Science Training Core of the AIM-AHEAD consortium.  
+   - https://www.aim-ahead.net/data-science-training-core/
 
 ## 🌈 Connect with us
 * ICBI at georgetown.edu
