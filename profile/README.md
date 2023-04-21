@@ -33,7 +33,7 @@ ICBI team is also part of the The Biomedical Informatics Shared Resource (BISR) 
     - https://icbi.georgetown.edu/bisr/
 
 ## 🍿 Fun facts 
-We are a diverse multi-displicinary group of researchers
+We are a diverse multi-displicinary group of researchers. 
 
 
 
