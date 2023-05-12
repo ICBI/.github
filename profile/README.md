@@ -14,12 +14,12 @@ ICBI team is also part of the The Biomedical Informatics Shared Resource (BISR) 
 
 ## Some of our open science efforts
 * A summary of many of our open science efforts: https://github.com/ICBI/Open-Science-Projects
-* Georgetown database of cancer now powered by UCSC Xena browser: https://gdoc.georgetown.edu
-* Targetable Molecular Algorithm for Next Generation DNA Sequencing in Non-Small Cell Lung Cancer : https://tma.georgetown.edu 
+* Georgetown database of cancer (G-DOC) now powered by UCSC Xena browser: https://gdoc.georgetown.edu
+* Targetable Molecular Algorithm (TMA) for Next Generation DNA Sequencing (NGS) in Non-Small Cell Lung Cancer (NSCLC) : https://tma.georgetown.edu 
 * Rembrandt multi omics datasets
-   - Gene expression and copy number at GEO
+   - Gene expression and copy number at GEO 
    - Segmented images at NITRC
-* Our team is part of the Data Science Training Core of the AIM-AHEAD consortium.  
+* Our team is part of the Data Science Training Core of the AIM-AHEAD consortium
    - https://www.aim-ahead.net/data-science-training-core/
 
 ## 🌈 Connect with us
