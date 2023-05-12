@@ -16,8 +16,8 @@ ICBI team is also part of the The Biomedical Informatics Shared Resource (BISR) 
 * Georgetown database of cancer now powered by UCSC Xena browser: https://gdoc.georgetown.edu
 * Targetable Molecular Algorithm for Next Generation DNA Sequencing in Non-Small Cell Lung Cancer : https://tma.georgetown.edu
 * Rembrandt multi omics datasets
-* Gene expression and copy number at GEO
-* Segmented images at NITRC
+  * Gene expression and copy number at GEO
+  * Segmented images at NITRC
 * Our team is part of the Data Science Training Core of the AIM-AHEAD consortium.
 https://www.aim-ahead.net/data-science-training-core/
 
